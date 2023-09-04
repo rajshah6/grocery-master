@@ -1,7 +1,6 @@
 /*
  * Name: Raj Shah
  * Date: Aug 11, 2023
- * Course: ICS4UE
  * Description: This program will act as a grocery store, where the user can 
  * add and save food items into a large text file, that can be manually accessed.
  * The items will be stored into an array with a custom type using a class. User
