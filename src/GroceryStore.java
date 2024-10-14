@@ -701,7 +701,7 @@ public class GroceryStore extends javax.swing.JFrame {
             
             // overwrite and save to the inventory.txt file
             try {
-                BufferedWriter writer = new BufferedWriter(new FileWriter("Grocery Store Inventory//src//inventory.txt")); // create BufferedWriter object to write to inventory.txt
+                BufferedWriter writer = new BufferedWriter(new FileWriter("src//inventory.txt")); // create BufferedWriter object to write to inventory.txt
                 
                 for (Item grocery : grocerys) { // get elements from array
                     writer.write(grocery + "\n"); // add from array to file
@@ -725,7 +725,7 @@ public class GroceryStore extends javax.swing.JFrame {
         
         // overwrite and save to the inventory.txt file
         try {
-            BufferedWriter writer = new BufferedWriter(new FileWriter("Grocery Store Inventory//src//inventory.txt")); // create BufferedWriter object to write to inventory.txt
+            BufferedWriter writer = new BufferedWriter(new FileWriter("src//inventory.txt")); // create BufferedWriter object to write to inventory.txt
 
             for (Item grocery : grocerys) { // get elements from array
                 writer.write(grocery + "\n"); // add from array to file
