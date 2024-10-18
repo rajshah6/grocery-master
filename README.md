@@ -20,7 +20,7 @@ This program simulates a grocery store inventory system, where users can add, sa
    git clone https://github.com/rajshah6/grocery-master
    ```
 
-2.	Open Apache NetBeans on your system.
+2.	Open [Apache NetBeans](https://netbeans.apache.org/front/main/download/) on your system.
 3.	In Apache NetBeans, click **File** -> **Open Project** and navigate to the folder where you cloned the repository. Select the project and click Open Project.
 4.	Once the project is opened, navigate to the `src` folder inside the project directory.
 5.	Open the file `GroceryStore.java`.
