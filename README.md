@@ -29,7 +29,7 @@ This program simulates a grocery store inventory system, where users can add, sa
 ### Alternatively:
 #### Clone the Repository
 ```bash
-   git clone https://github.com/rajshah6/grocery-master
+git clone https://github.com/rajshah6/grocery-master
    ```
 
 #### Navigate into the Cloned Repository
