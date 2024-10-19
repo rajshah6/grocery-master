@@ -34,7 +34,7 @@ git clone https://github.com/rajshah6/grocery-master
 
 #### Navigate into the Cloned Repository
 ```bash
-cd grocery-store-inventory
+cd grocery-master-main
 ```
 
 #### Compile the Java Program
